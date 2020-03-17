@@ -3,6 +3,8 @@ http://ieeevr.org/2020/online/
 
 {% include toc.html html=text ordered=true %}
  {:toc} 
+<h1>Online</h1>
+
 As part of our long term goal to increase the sustainability and accessibility of the conference, this year IEEE VR 2020 was planning to stream all presentations in the main program (talks, panels, and keynotes) to Twitch, and hosting a collection of online social virtual spaces for people who could not travel to Atlanta during the week of March 22-26th.
 
 With the decision to switch to an all-online format, these Twitch streams and web-based 3D spaces will be used to host all conference activities. While some contributions (e.g., paper presentations) are better suited to streaming and online presentation than others (e.g., demos), we are planning to have all original content planned for VR 2020, from papers and posters, to demos and videos, to workshops and the 3DUI contest, take place in the online format. We will work with authors of all contributions to help them share their work in the best way possible using these online systems. We plan to live streaming video of all presentation sessions (papers, panels, workshops, and keynotes) onto Twitch and into the 3D social spaces. We will also use these 3D social spaces to host virtual poster sessions, demos and 3D UI contest entries (for those that can be presented online in one form or another), the Doctoral Consortium, and attendee-generated Birds of a Feather sessions. And not least of all, we are planning social activities in these rooms to provide other ways for attendees to meet, socialize, and get to know each other.

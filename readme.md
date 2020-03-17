@@ -11,7 +11,7 @@ After signing in, please visit the Tutorial rooms if you are unfamiliar with the
 
 オンライン国際会議に参加するには 会議参加者 として登録し、登録に使用したアドレスと同じメールアドレスでログインする必要があります。 
 IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセスして登録してください。
-[Online](http://ieeevr.org/2020/online/)[日本語](online.md)ページに、オンラインエクスペリエンスの詳細、会議Slackに参加するためのリンク、会議とシステムに関するFAQがあります。
+[Online](http://ieeevr.org/2020/online/)（[日本語]）(online.md)ページに、オンラインエクスペリエンスの詳細、会議Slackに参加するためのリンク、会議とシステムに関するFAQがあります。
 （登録情報はすぐには同期されないため、登録ギリギリを待たないでください！）
 
 サインインの後、バーチャル世界ソフトウェア「Hubs」に不慣れな場合は、チュートリアルルームにアクセスしてください。
