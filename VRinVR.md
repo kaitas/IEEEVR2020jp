@@ -26,7 +26,7 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 # Session 1: 1:00pm - 2:30pm 
 
 |:--:|:--:|:--:|:--:|
-|EDT/(GMT-4)|Speaker|Title|Duration|
+|EDT<br>(GMT-4)|Speaker|Title|Duration|
 | 1:00pm | | Introduction, welcome, goals | 10min |
 | 1:10pm | Cristina Lopes, University of California, Irvine | Keynote: Virtual Conferences | 40 mins |
 | 1:50pm | Agenda Setting | |
@@ -38,7 +38,7 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 
 # Session 2: 2:45 - 4:15
 |:--:|:--:|:--:|:--:|
-|EDT/(GMT-4)|Speaker|Title|Duration|
+|EDT</br>(GMT-4)|Speaker|Title|Duration|
 |2:45pm | Technology and Requirements ||
 | | Charles Peasley, Rachel Dianiska, Emily Oldham, Nicholas Wilson, Stephen Gilbert, Peggy Wu, Brett Israelsen, James Oliver | Evaluating Metrics for Standardized Benchmarking of Remote Presence Systems | 5 min |
 | |Moya Kate Baldry | The revolution may not be televised…but can it be experienced in Virtual Reality? | 5 min |
