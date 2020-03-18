@@ -28,7 +28,7 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 | 1:50pm | Agenda Setting | |
 ||Parke Wilde | Multi-Site Conference Hosting Initiative (MULCH): Enhancing the Human Aspect of Low-Carbon Long-Distance Conferencing | 10 mins|
 ||Duc Anh Le, Blair MacIntyre, Jessica Outlaw | Enhancing the Experience of Virtual Conferences in Social Virtual Environments | 10 mins |
-|| Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | Avatar Driven VR Society Trends in Japan | 10 mins |
+|| Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | <a href="https://calendar.google.com/calendar/r/eventedit?text=%5BVRinVR+Session+1%5D+(Hubs)+1410-+Avatar+Driven+VR+Society+Trends+in+Japan&details=Avatar+Driven+VR+Society+Trends+in+Japan%0ALiudmila+Bredikhina,+Takayuki+Kameoka,+Shogo+Shimbo,+Akihiko+Shirai%0A%0AURL:+%3Ca+href%3D%27https://hub.link/U9naqtM%27%3E%27https://hub.link/U9naqtM%27%3C/a%3E%0A&dates=20200320T141000/20200320T142000&ctz=America/Detroit&sf=true">Avatar Driven VR Society Trends in Japan</a> | 10 mins |
 |2:20pm | Discussion | |
 |2:30-2:45pm| Break||
 
@@ -74,7 +74,7 @@ Confirmed panellists:
 # 4:05 Discussion and Wrap Up
 
 
-# Hubs Testing
+# Testing for Hubs
 
 <iframe src="https://hubs.mozilla.com/U9naqtM/avatar-driven-vr-society-trends-in-japan?embed_token=f59b30a080ab9981046fa245b49f0de9" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
 
