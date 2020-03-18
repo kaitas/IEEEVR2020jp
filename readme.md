@@ -22,8 +22,10 @@ IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセス�
 今後もオンライン開催となる学会は多くあると思いますので、ノウハウを残す意味でこちらのサイトに記載していきます。
 
 - [VRinVR](VRinVR.md)
+- [委員の清川先生にお聞きした情報](kiyokiyo.md)
+
 
 ### About this Japanese version
 This website has been translated into Japanese for the convenience of Akihiko SHIARI. The work is non-profit, no warranty and as-is.
 
-このWebサイトは<a href="https://kaitas.github.io/">Akihiko SHIARI</a>の利便性のために日本語に翻訳されています。作業は非営利であり、無保証であり、現状有姿です。
+このWebサイトは<a href="https://kaitas.github.io/">Akihiko SHIARI</a>自身の利便性のために日本語に翻訳しています。作業は非営利であり、無保証であり、現状有姿です。
