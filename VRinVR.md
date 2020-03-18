@@ -17,37 +17,17 @@ All times in Eastern Time (ET) i.e. time in Atlanta. The ET timezone is currentl
 
 The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Please watch this space.
 
-
-|  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 11 | 21 ¦    ¦    ¦    ¦    ¦    ¦    ¦    |
-|    | 22 | 32 ¦    ¦    ¦    ¦    ¦    | 92 |
-|    |    | 33 | 43 ¦    ¦    ¦    | 83 |    |
-|    |    |    | 44 | 54 ¦    | 74 |    |    |
-|    |    |    |    | 55 | 65 |    |    |    |
-|    |    |    |    ¦ 56 |    |    |    |    |
-|    |    |    ¦    ¦    ¦ 67 |    |    |    |
-|    |    ¦    ¦    ¦    ¦    ¦ 78 |    |    |
-|    ¦    ¦    ¦    ¦    ¦    ¦    ¦ 89 |    |
-
-| Session 1: 1:00pm - 2:30pm ¦ ¦ ¦ |
+ Session 1: 1:00pm - 2:30pm 
 |:--:|:--:|:--:|:--:|
-| | 1:00pm | Introduction, welcome, goals ¦ |
-| | 1:10 | Keynote | (40 mins) |
-| | Cristina Lopes, University of California, Irvine | Virtual Conferences |
-| | 1:50 | Agenda Setting ¦ |
-| |Parke Wilde | Multi-Site Conference Hosting Initiative (MULCH): Enhancing the Human Aspect of Low-Carbon Long-Distance Conferencing | (10 mins)|
-| |Duc Anh Le, Blair MacIntyre, Jessica Outlaw | Enhancing the Experience of Virtual Conferences in Social Virtual Environments | (10 mins) |
-| | Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | Avatar Driven VR Society Trends in Japan | (10 mins) |
-| |2:20 | Discussion | |
-
-
-
-
-
-Break: 2:30-2:45
-
-
+|EDT|Speaker|Title|Duration|
+| 1:00pm | Introduction, welcome, goals ¦ |
+| 1:10pm |  Cristina Lopes, University of California, Irvine |Keynote: Virtual Conferences | (40 mins) |
+| 1:50pm | Agenda Setting | |
+||Parke Wilde | Multi-Site Conference Hosting Initiative (MULCH): Enhancing the Human Aspect of Low-Carbon Long-Distance Conferencing | (10 mins)|
+||Duc Anh Le, Blair MacIntyre, Jessica Outlaw | Enhancing the Experience of Virtual Conferences in Social Virtual Environments | (10 mins) |
+|| Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | Avatar Driven VR Society Trends in Japan | (10 mins) |
+|2:20 | Discussion | |
+|2:30-2:45| Break||
 
 Session 2: 2:45 - 4:15
 
