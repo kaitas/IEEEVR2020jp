@@ -16,7 +16,7 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 
 <details><summary>日本語</summary>新しい日付と場所：2020年3月20日金曜日 東部標準時(GMT-4) 午後1時から5時 オンラインにて。
 すべての時間は東部標準時間（ET）、つまりアトランタ時間です。 ETタイムゾーンはGMT-4です。米国は夏時間になっていますが、EUおよびその他の多くの国ではまだ夏時間/冬時間に切り替えていないことに注意してください。<br>
-会場は、Mozilla Hubs、Zoom、およびその他のツールの組み合わせになります。[このスペース](https://sites.google.com/view/vrinvr2020/program)を見てください。
+会場は、Mozilla Hubs、Zoom、およびその他のツールの組み合わせになります。<a href="https://sites.google.com/view/vrinvr2020/program">このスペース</a>を見てください。
 </details>
 
 # 1:00pm - 2:30pm : Session 1
@@ -52,7 +52,7 @@ This panel will investigate the requirements for future conferences in virtual r
 
 This will be a highly interactive panel. Panelists will talk for 3-5 minutes before the moderator leads the group through a structured conversation. 
 
-<detail><summary>日本語</summary>
+<details><summary>日本語</summary>
 このパネルは、VRによる将来の会議の要件を調査します。
 学術会議の役割と、VR会議ソフトウェアに必要なものについてディスカッションします。
 これはVRでの効果的なプレゼンテーションだけでなく、プログラムのソーシャルおよびアドホックなミーティング機能も含まれます。
@@ -60,7 +60,7 @@ This will be a highly interactive panel. Panelists will talk for 3-5 minutes bef
 次に、将来の強化されたVR会議を実現するための作業プログラムを提案する方法について説明します。<br>
 これは非常にインタラクティブなパネルになります。
 モデレーターが構造化したまとめをする前に、パネリストが3～5分間のトークを持ちます。
-</detail>
+</details>
 
 Moderator: Rob Lindeman, HIT Lab NZ, Univ. of Canterbury
 
@@ -72,3 +72,9 @@ Confirmed panellists:
 
 
 # 4:05 Discussion and Wrap Up
+
+
+# Hubs Testing
+
+<iframe src="https://hubs.mozilla.com/U9naqtM/avatar-driven-vr-society-trends-in-japan?embed_token=f59b30a080ab9981046fa245b49f0de9" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
+
