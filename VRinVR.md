@@ -13,11 +13,18 @@ FRIDAY, 20 MARCH 2020, 1-5PM ET (GMT-4), ONLINE
 
 All times in Eastern Time (ET) i.e. time in Atlanta. The ET timezone is currently GMT-4. Note that the USA is on daylight savings time, but the EU and much of the rest of the world has not switched to summer/winter time yet.
 
-
-
 The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Please watch this space.
 
- Session 1: 1:00pm - 2:30pm 
+
+新しい日付と場所：2020年3月20日金曜日、東部標準時午後1時から5時（GMT-4）、オンライン
+
+すべての時間は東部標準時間（ET）、つまりアトランタの時間です。 ETタイムゾーンは現在GMT-4です。米国は夏時間になっていますが、EUおよびその他の多くの国ではまだ夏時間/冬時間に切り替えていないことに注意してください。
+
+会場は、Mozilla Hubs、Zoom、およびその他のツールの組み合わせになります。このスペースを見てください。
+
+
+# Session 1: 1:00pm - 2:30pm 
+
 |:--:|:--:|:--:|:--:|
 |EDT|Speaker|Title|Duration|
 | 1:00pm | Introduction, welcome, goals ¦ |
@@ -29,33 +36,20 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 |2:20 | Discussion | |
 |2:30-2:45| Break||
 
-Session 2: 2:45 - 4:15
-
-
+# Session 2: 2:45 - 4:15
 
 2:45 Technology and Requirements
 
-
-
 Charles Peasley, Rachel Dianiska, Emily Oldham, Nicholas Wilson, Stephen Gilbert, Peggy Wu, Brett Israelsen, James Oliver, Evaluating Metrics for Standardized Benchmarking of Remote Presence Systems (5 min)
-
 Moya Kate Baldry, The revolution may not be televised…but can it be experienced in Virtual Reality? (5 min)
-
 Redouane Kachach, Virtual Tour: An Immersive Low Cost Telepresence System (5 mins)
-
 Ben Loveridge, Can the use of virtual reality improve the experience of real-time networked music sessions in music conferences (5 min)
-
-
 
 3:05  What we are doing at IEEE VR 2020 (15 mins)
 
-
-
 Blair MacIntyre will give an overview of the system setup for IEEE VR 2020
 
-
-
-3:20  Panel: Requirements for Virtual Conferencing (45 mins)
+# 3:20  Panel: Requirements for Virtual Conferencing (45 mins)
 
 This panel will investigate the requirements for future conferences in virtual reality. We will discuss how the role of an academic conference and thus what we need from virtual conferencing software. This will include effective presentations in virtual reality, but also the social and ad-hoc meeting functions of a programme. We will thus discuss the state of the art in the parts of the technology that are already consumer technology, and where the panellists see urgent need for further work. We will then discuss how we might propose a programme of work to deliver enhanced virtual conferencing in the future.
 
@@ -64,29 +58,13 @@ This will be a highly interactive panel. Panelists will talk for 3-5 minutes bef
 Moderator: Rob Lindeman, HIT Lab NZ, Univ. of Canterbury
 
 Confirmed panellists:
-
 - Ben Lok, University of Florida, in capacity as Chair of the Steering Committee for IEEE Virtual Reality
-
 - Liv Ericson, Product Manager for Hubs, Mozilla.
-
 - Cristina Lopes, University of California, Irvine
-
 - Anthony Steed, University College London
 
 
-
-4:05 Discussion and Wrap Up
-
-
-新しい日付と場所：
-2020年3月20日金曜日、東部標準時午後1時から5時（GMT-4）、オンライン
-
-
-すべての時間は東部標準時間（ET）、つまりアトランタの時間です。 ETタイムゾーンは現在GMT-4です。米国は夏時間になっていますが、EUおよびその他の多くの国ではまだ夏時間/冬時間に切り替えていないことに注意してください。
-
-
-
-会場は、Mozilla Hubs、Zoom、およびその他のツールの組み合わせになります。このスペースを見てください。
+# 4:05 Discussion and Wrap Up
 
 
 
