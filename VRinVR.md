@@ -3,22 +3,17 @@ layout: default
 title: VR in VR
 ---
 
-# VR in VR
-
-[Original](https://sites.google.com/view/vrinvr2020)
+# (Workshop) VR in VR
+[Original site](https://sites.google.com/view/vrinvr2020)
 
 NEW DATE AND LOCATION: 
 FRIDAY, 20 MARCH 2020, 1-5PM ET (GMT-4), ONLINE
 
-
 All times in Eastern Time (ET) i.e. time in Atlanta. The ET timezone is currently GMT-4. Note that the USA is on daylight savings time, but the EU and much of the rest of the world has not switched to summer/winter time yet.
+<details><summary>日本語</summary>新しい日付と場所：2020年3月20日金曜日 東部標準時(GMT-4) 午後1時から5時 オンラインにて。
+すべての時間は東部標準時間（ET）、つまりアトランタ時間です。 ETタイムゾーンはGMT-4です。米国は夏時間になっていますが、EUおよびその他の多くの国ではまだ夏時間/冬時間に切り替えていないことに注意してください。</details>
 
 The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Please watch this space.
-
-
-新しい日付と場所：2020年3月20日金曜日、東部標準時午後1時から5時（GMT-4）、オンライン
-
-すべての時間は東部標準時間（ET）、つまりアトランタの時間です。 ETタイムゾーンは現在GMT-4です。米国は夏時間になっていますが、EUおよびその他の多くの国ではまだ夏時間/冬時間に切り替えていないことに注意してください。
 
 会場は、Mozilla Hubs、Zoom、およびその他のツールの組み合わせになります。このスペースを見てください。
 
@@ -37,6 +32,7 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 |2:30-2:45pm| Break||
 
 # Session 2: 2:45 - 4:15
+
 |:--:|:--:|:--:|:--:|
 |EDT</br>(GMT-4)|Speaker|Title|Duration|
 |2:45pm | Technology and Requirements ||
