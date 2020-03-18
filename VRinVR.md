@@ -76,6 +76,4 @@ Confirmed panellists:
 
 # Testing for Hubs
 [Avatar Driven VR Society Trends in Japan]<https://hub.link/fYnpc8m>
-
-<iframe src="https://hubs.mozilla.com/fYnpc8m/avatar-driven-vr-society-trends-in-japan?embed_token=94190ebbd6a6531cf42dc1a4eb92aeb1" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
-
+<iframe src="https://hubs.mozilla.com/fYnpc8m/avatar-driven-vr-society-trends-in-japan/?embed_token=94190ebbd6a6531cf42dc1a4eb92aeb1" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
