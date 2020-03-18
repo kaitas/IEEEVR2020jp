@@ -73,8 +73,11 @@ Confirmed panellists:
 
 # 4:05 Discussion and Wrap Up
 
-
+<!--
 # Testing for Hubs
 [Avatar Driven VR Society Trends in Japan]<https://hub.link/fYnpc8m>
-<iframe src="https://hubs.mozilla.com/fYnpc8m/avatar-driven-vr-society-trends-in-japan/" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
-<!--?embed_token=94190ebbd6a6531cf42dc1a4eb92aeb1-->
+<iframe src="https://hubs.mozilla.com/fYnpc8m/avatar-driven-vr-society-trends-in-japan/?embed_token=94190ebbd6a6531cf42dc1a4eb92aeb1" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
+-->
+
+[Avatar Driven VR Society Trends in Japan]: https://pbs.twimg.com/media/ETZiFyNVAAEe7rj?format=jpg&name=large "Avatar Driven VR Society Trends in Japan"
+
