@@ -1,14 +1,3 @@
----
-layout: index
-title: Home
----
-
-http://ieeevr.org/2020/online/
-
-{% include toc.html html=text ordered=true %}
- {:toc} 
-
-
  <h1>清川先生経由の情報</h1>
 ・座長と発表者はZoomで話すのが前提
 ・どちらかといえばHubsは一般聴講者向け
