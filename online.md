@@ -1,8 +1,13 @@
-# Online Experience
+---
+layout: index
+title: Home
+---
+
 http://ieeevr.org/2020/online/
 
 {% include toc.html html=text ordered=true %}
  {:toc} 
+
 
  <h1>清川先生経由の情報</h1>
 ・座長と発表者はZoomで話すのが前提
@@ -20,6 +25,8 @@ https://www.youtube.com/watch?v=3EJMNAz4f5w
 ・Hubsで発表する人向け
 https://www.youtube.com/watch?v=AcDRbBt5e-g
 <h1>Online</h1>
+
+# Online Experience
 
 As part of our long term goal to increase the sustainability and accessibility of the conference, this year IEEE VR 2020 was planning to stream all presentations in the main program (talks, panels, and keynotes) to Twitch, and hosting a collection of online social virtual spaces for people who could not travel to Atlanta during the week of March 22-26th.
 

@@ -17,6 +17,12 @@ IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセス�
 サインインの後、バーチャル世界ソフトウェア「Hubs」に不慣れな場合は、チュートリアルルームにアクセスしてください。
 さまざまなプラットフォームにおけるHubsの操作に関するドキュメントは、[HubsWiki](https://github.com/mozilla/hubs/wiki/Hubs-Controls)で入手できます。また、Hubsを使用してIEEE VRをより楽しくするための豊富な情報が提供されています。
 
+## Workshop "VR in VR"関連情報
+[Workshop "VR in VR"](https://sites.google.com/view/vrinvr2020)は、当初は「研究者によるCO2排出削減のためにVRに何ができるか？」についてのIEEEVR2020内ワークショップでしたが、コロナウイルス対応によりIEEEVR2020全体がオンライン開催に移行したため、本体会議の実施と手法が、このワークショップのチェアと共有されている部分が多くあります。
+今後もオンライン開催となる学会は多くあると思いますので、ノウハウを残す意味でこちらのサイトに記載していきます。
+
+- [VRinVR](VRinVR.md)
+
 ### About this Japanese version
 This website has been translated into Japanese for the convenience of Akihiko SHIARI. The work is non-profit, no warranty and as-is.
 
