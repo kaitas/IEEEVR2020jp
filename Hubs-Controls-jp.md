@@ -134,32 +134,32 @@ https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of c
         <td></td>
     </tr>
     <tr>
-        <td>Drop pen or camera</td>
+        <td>ペンやカメラを置く</td>
         <td>Right mouse button or Escape</td>
-        <td>While holding a pen or camera</td>
+        <td>カメラかペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Next/previous pen color</td>
+        <td>ペンの色を前後に変える</td>
         <td>Shift + E, Shift + Q</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Change pen size</td>
+        <td>ペンの太さを変える</td>
         <td>Shift + Mouse wheel</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Undo pen stroke</td>
+        <td>ペンの描き直し</td>
         <td>Ctrl + Z</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Take photo</td>
+        <td>写真を撮る</td>
         <td>Left mouse button</td>
-        <td>While holding a camera</td>
+        <td>カメラを構えているとき</td>
     </tr>
     <tr>
-        <td>Increase/decrease media volume</td>
+        <td>メディアの音量調整</td>
         <td>Mouse wheel</td>
         <td>While hovering over media</td>
     </tr>
@@ -191,27 +191,27 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
 
 <table>
     <tr>
-        <th>Actions</th>
-        <th>Controls</th>
-        <th>Context</th>
+        <th>動作</th>
+        <th>操作</th>
+        <th>コンテキスト（連携操作）</th>
     </tr>
     <tr>
-        <td>Move</td>
+        <td>移動</td>
         <td>Left controller thumbstick</td>
         <td></td>
     </tr>
     <tr>
-        <td>Turn</td>
+        <td>回転</td>
         <td>Right controller thumbstick</td>
         <td></td>
     </tr>
     <tr>
-        <td>Move faster</td>
+        <td>高速移動</td>
         <td>B or Y buttons to move faster</td>
         <td></td>
     </tr>
     <tr>
-        <td>Teleport</td>
+        <td>テレポート</td>
         <td>Trigger</td>
         <td></td>
     </tr>
@@ -221,22 +221,22 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
         <td></td>
     </tr>
     <tr>
-        <td>Show menus</td>
+        <td>メニューを開く</td>
         <td>Hold A or X</td>
         <td></td>
     </tr>
     <tr>
-        <td>Rotate object</td>
+        <td>物体を回転</td>
         <td>Rotate controller</td>
         <td>After pressing and holding the "rotate" button in the object's menu</td>
     </tr>
     <tr>
-        <td>Grab object</td>
+        <td>物体を把持</td>
         <td>Grip button on either controller</td>
         <td></td>
     </tr>
     <tr>
-        <td>Scale object</td>
+        <td>物体を拡大縮小</td>
         <td>Move both hands together or apart while holding object</td>
         <td>While holding an object</td>
     </tr>
@@ -248,30 +248,30 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
     <tr>
         <td>Draw with pen</td>
         <td>Trigger</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Next/previous pen color</td>
+        <td>ペンの色を前後に変える</td>
         <td>Left/right on thumbstick</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Change pen size</td>
+        <td>ペンの太さを変える</td>
         <td>Up/down on thumbstick</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Undo pen stroke</td>
+        <td>ペンの描き直し</td>
         <td>B or Y button</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Take photo</td>
+        <td>写真を撮る</td>
         <td>Trigger</td>
-        <td>While holding a camera</td>
+        <td>カメラを構えているとき</td>
     </tr>
     <tr>
-        <td>Increase/decrease media volume</td>
+        <td>メディアの音量調整</td>
         <td>Up/down on right thumbstick</td>
         <td>While hovering over media</td>
     </tr>
@@ -283,62 +283,62 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
 
 <table>
     <tr>
-        <th>Actions</th>
-        <th>Controls</th>
-        <th>Context</th>
+        <th>動作</th>
+        <th>操作</th>
+        <th>コンテキスト（連携操作）</th>
     </tr>
     <tr>
-        <td>Move</td>
+        <td>移動</td>
         <td>
         Left controller touchpad
         </td>
         <td></td>
     </tr>
     <tr>
-        <td>Turn</td>
+        <td>回転</td>
         <td>
         Right controller touchpad
         </td>
         <td></td>
     </tr>
     <tr>
-        <td>Move faster</td>
+        <td>高速移動</td>
         <td>
         Press top of touchpad
         </td>
         <td></td>
     </tr>
     <tr>
-        <td>Teleport</td>
+        <td>テレポート</td>
         <td>
         Trigger
         </td>
         <td></td>
     </tr>
     <tr>
-        <td>Teleport</td>
+        <td>テレポート</td>
         <td>
         Press center of touchpad
         </td>
         <td>While holding pen</td>
     </tr>
     <tr>
-        <td>Show menus</td>
+        <td>メニューを開く</td>
         <td>Press and hold center of touchpad on right controller</td>
         <td></td>
     </tr>
     <tr>
-        <td>Rotate object</td>
+        <td>物体を回転</td>
         <td>Rotate controller</td>
         <td>After pressing and holding the "rotate" button in the object's menu</td>
     </tr>
     <tr>
-        <td>Grab object</td>
+        <td>物体を把持</td>
         <td>Grip button on either controller</td>
         <td></td>
     </tr>
     <tr>
-        <td>Scale object</td>
+        <td>物体を拡大縮小</td>
         <td>Move both hands together or apart while holding object</td>
         <td>While holding an object</td>
     </tr>
@@ -350,30 +350,30 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
     <tr>
         <td>Draw with pen</td>
         <td>Trigger</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Next/previous pen color</td>
+        <td>ペンの色を前後に変える</td>
         <td>Up/down on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Change pen size</td>
+        <td>ペンの太さを変える</td>
         <td>Swipe left/right on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Undo pen stroke</td>
+        <td>ペンの描き直し</td>
         <td>Press top of touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Take photo</td>
+        <td>写真を撮る</td>
         <td>Trigger</td>
-        <td>While holding a camera</td>
+        <td>カメラを構えているとき</td>
     </tr>
     <tr>
-        <td>Increase/decrease media volume</td>
+        <td>メディアの音量調整</td>
         <td>Press up/down on right touchpad</td>
         <td>While hovering over media</td>
     </tr>
@@ -385,52 +385,52 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
 
 <table>
     <tr>
-        <th>Actions</th>
-        <th>Controls</th>
-        <th>Context</th>
+        <th>動作</th>
+        <th>操作</th>
+        <th>コンテキスト（連携操作）</th>
     </tr>
     <tr>
-        <td>Move</td>
+        <td>移動</td>
         <td>        Left controller joystick</td>
         <td></td>
     </tr>
     <tr>
-        <td>Turn</td>
+        <td>回転</td>
         <td>        Right controller joystick</td>
         <td></td>
     </tr>
     <tr>
-        <td>Move faster</td>
+        <td>高速移動</td>
         <td>Trigger</td>
         <td></td>
     </tr>
     <tr>
-        <td>Teleport</td>
+        <td>テレポート</td>
         <td>Right controller joystick up</td>
         <td></td>
     </tr>
     <tr>
-        <td>Show menus</td>
+        <td>メニューを開く</td>
         <td>Press and hold center of touchpad on left or right controller</td>
         <td></td>
     </tr>
     <tr>
-        <td>Press button</td>
+        <td>ボタンを押す</td>
         <td>Trigger</td>
         <td>While cursor is on button</td>
     </tr>
     <tr>
-        <td>Rotate object</td>
+        <td>物体を回転</td>
         <td>Rotate controller</td>
         <td>After pressing and holding the "rotate" button in the object's menu</td>
     </tr>
     <tr>
-        <td>Grab object</td>
+        <td>物体を把持</td>
         <td>Grip button on either controller</td>
         <td></td>
     </tr>
     <tr>
-        <td>Scale object</td>
+        <td>物体を拡大縮小</td>
         <td>Move both hands together or apart while holding object</td>
         <td>While holding an object</td>
     </tr>
@@ -442,27 +442,27 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
     <tr>
         <td>Draw with pen</td>
         <td>Trigger</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Next/previous pen color</td>
+        <td>ペンの色を前後に変える</td>
         <td>Press right/left on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Change pen size</td>
+        <td>ペンの太さを変える</td>
         <td>Swipe up/down on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Undo pen stroke</td>
+        <td>ペンの描き直し</td>
         <td>Press center of touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Take photo</td>
+        <td>写真を撮る</td>
         <td>Trigger</td>
-        <td>While holding a camera</td>
+        <td>カメラを構えているとき</td>
     </tr>
 </table>
 
@@ -470,27 +470,27 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
 
 <table>
     <tr>
-        <th>Actions</th>
-        <th>Controls</th>
-        <th>Context</th>
+        <th>動作</th>
+        <th>操作</th>
+        <th>コンテキスト（連携操作）</th>
     </tr>
     <tr>
-        <td>Turn</td>
+        <td>回転</td>
         <td>Touchpad left/right</td>
         <td></td>
     </tr>
     <tr>
-        <td>Teleport</td>
+        <td>テレポート</td>
         <td>Trigger</td>
         <td></td>
     </tr>
     <tr>
-        <td>Show menus</td>
+        <td>メニューを開く</td>
         <td>Press and hold center of touchpad on right controller</td>
         <td></td>
     </tr>
     <tr>
-        <td>Grab object</td>
+        <td>物体を把持</td>
         <td>Trigger</td>
         <td></td>
     </tr>
@@ -500,37 +500,37 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
         <td>While holding an object</td>
     </tr>
     <tr>
-        <td>Drop pen or camera</td>
+        <td>ペンやカメラを置く</td>
         <td>Press center of touchpad</td>
-        <td>While holding a pen or camera</td>
+        <td>ペンを持っているとき or camera</td>
     </tr>
     <tr>
         <td>Draw with pen</td>
         <td>Trigger</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Next/previous pen color</td>
+        <td>ペンの色を前後に変える</td>
         <td>Left/right on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Change pen size</td>
+        <td>ペンの太さを変える</td>
         <td>Swipe left/right on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Undo pen stroke</td>
+        <td>ペンの描き直し</td>
         <td>Press top of touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Take photo</td>
+        <td>写真を撮る</td>
         <td>Trigger</td>
-        <td>While holding a camera</td>
+        <td>カメラを構えているとき</td>
     </tr>
     <tr>
-        <td>Increase/decrease media volume</td>
+        <td>メディアの音量調整</td>
         <td>Scroll up/down on touchpad</td>
         <td>While hovering over media</td>
     </tr>
@@ -540,27 +540,27 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
 
 <table>
     <tr>
-        <th>Actions</th>
-        <th>Controls</th>
-        <th>Context</th>
+        <th>動作</th>
+        <th>操作</th>
+        <th>コンテキスト（連携操作）</th>
     </tr>
     <tr>
-        <td>Turn</td>
+        <td>回転</td>
         <td>Touchpad left/right</td>
         <td></td>
     </tr>
     <tr>
-        <td>Teleport</td>
+        <td>テレポート</td>
         <td>Trigger</td>
         <td></td>
     </tr>
     <tr>
-        <td>Grab object</td>
+        <td>物体を把持</td>
         <td>Press center of touchpad</td>
         <td></td>
     </tr>
     <tr>
-        <td>Rotate object</td>
+        <td>物体を回転</td>
         <td>Rotate controller</td>
         <td>After pressing and holding the "rotate" button in the object's menu</td>
     </tr>
@@ -570,42 +570,42 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
         <td>While holding an object</td>
     </tr>
     <tr>
-        <td>Drop pen or camera</td>
+        <td>ペンやカメラを置く</td>
         <td>Press center of touchpad</td>
-        <td>While holding a pen or camera</td>
+        <td>ペンを持っているとき or camera</td>
     </tr>
     <tr>
         <td>Draw with pen</td>
         <td>Press top of touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Next/previous pen color</td>
+        <td>ペンの色を前後に変える</td>
         <td>Press left/right on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Change pen size</td>
+        <td>ペンの太さを変える</td>
         <td>Swipe left/right on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Undo pen stroke</td>
+        <td>ペンの描き直し</td>
         <td>Press top of touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
         <td>Move pen closer/away</td>
         <td>Swipe up/down on touchpad</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Take photo</td>
+        <td>写真を撮る</td>
         <td>Press top of touchpad</td>
-        <td>While holding a camera</td>
+        <td>カメラを構えているとき</td>
     </tr>
     <tr>
-        <td>Increase/decrease media volume</td>
+        <td>メディアの音量調整</td>
         <td>Scroll up/down on touchpad</td>
         <td>While hovering over media</td>
     </tr>
@@ -615,27 +615,27 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
 
 <table>
     <tr>
-        <th>Actions</th>
-        <th>Controls</th>
-        <th>Context</th>
+        <th>動作</th>
+        <th>操作</th>
+        <th>コンテキスト（連携操作）</th>
     </tr>
     <tr>
-        <td>Move</td>
+        <td>移動</td>
         <td>Left thumbstick</td>
         <td></td>
     </tr>
     <tr>
-        <td>Move faster</td>
+        <td>高速移動</td>
         <td>Left trigger</td>
         <td></td>
     </tr>
     <tr>
-        <td>Turn</td>
+        <td>回転</td>
         <td>Left/right bumper. Right thumbstick</td>
         <td></td>
     </tr>
     <tr>
-        <td>Show menus</td>
+        <td>メニューを開く</td>
         <td>Hold Up on D-pad</td>
         <td></td>
     </tr>
@@ -645,17 +645,17 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
         <td></td>
     </tr>
     <tr>
-        <td>Teleport</td>
+        <td>テレポート</td>
         <td>A</td>
         <td></td>
     </tr>
     <tr>
-        <td>Grab object</td>
+        <td>物体を把持</td>
         <td>Right Trigger</td>
         <td></td>
     </tr>
     <tr>
-        <td>Rotate object</td>
+        <td>物体を回転</td>
         <td>Move cursor</td>
         <td>After pressing and holding the "rotate" button in the object's menu</td>
     </tr>
@@ -672,21 +672,21 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
     <tr>
         <td>Drop pen</td>
         <td>B</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
         <td>Draw with pen</td>
         <td>Right Trigger</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Next/previous pen color</td>
+        <td>ペンの色を前後に変える</td>
         <td>A/X</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
     <tr>
-        <td>Undo pen stroke</td>
+        <td>ペンの描き直し</td>
         <td>Y</td>
-        <td>While holding a pen</td>
+        <td>ペンを持っているとき</td>
     </tr>
 </table>
