@@ -21,34 +21,34 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 
 ![newTimeTableVRinVR.png](newTimeTableVRinVR.png)
 
-# 1:00pm - 2:30pm : Session 1
+# Session 1
 
 |:--:|:--:|:--|:--:|
 |EDT<br>(GMT-4)|Speaker|Title|Duration|
-| 1:00pm | | Introduction, welcome, goals | 10min |
-| 1:10pm | Cristina Lopes, University of California, Irvine | Keynote: Virtual Conferences | 40 mins |
-| 1:50pm | Agenda Setting | |
+|  | | Introduction, welcome, goals | 10min |
+|  | Cristina Lopes, University of California, Irvine | Keynote: Virtual Conferences | 40 mins |
+|  | Agenda Setting | |
 ||Parke Wilde | Multi-Site Conference Hosting Initiative (MULCH): Enhancing the Human Aspect of Low-Carbon Long-Distance Conferencing | 10 mins|
 ||Duc Anh Le, Blair MacIntyre, Jessica Outlaw | Enhancing the Experience of Virtual Conferences in Social Virtual Environments | 10 mins |
 || Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | [Avatar Driven VR Society Trends in Japan](AvatarDrivenVRSocietyTrendsinJapan.md)</a> | 10 mins |
-|2:20pm | Discussion | |
-|2:30-2:45pm| Break||
+| | Discussion | |
+| | Break||
 
-# 2:45pm - 4:15pm : Session 2
+# Session 2
 
 |:--:|:--:|:--|:--:|
 |EDT</br>(GMT-4)|Speaker|Title|Duration|
-|2:45pm | Technology and Requirements ||
+| | Technology and Requirements ||
 | | Charles Peasley, Rachel Dianiska, Emily Oldham, Nicholas Wilson, Stephen Gilbert, Peggy Wu, Brett Israelsen, James Oliver | Evaluating Metrics for Standardized Benchmarking of Remote Presence Systems | 5 min |
 | |Moya Kate Baldry | The revolution may not be televised…but can it be experienced in Virtual Reality? | 5 min |
 | |Redouane Kachach | Virtual Tour: An Immersive Low Cost Telepresence System | 5 mins |
 | | Ben Loveridge | Can the use of virtual reality improve the experience of real-time networked music sessions in music conferences | 5 min |
 
-# 3:05pm "What we are doing at IEEE VR 2020" 
+# "What we are doing at IEEE VR 2020" 
 
 Blair MacIntyre will give an overview of the system setup for IEEE VR 2020
 
-# 3:20pm  Panel "Requirements for Virtual Conferencing"
+# Panel "Requirements for Virtual Conferencing"
 
 This panel will investigate the requirements for future conferences in virtual reality. We will discuss how the role of an academic conference and thus what we need from virtual conferencing software. This will include effective presentations in virtual reality, but also the social and ad-hoc meeting functions of a programme. We will thus discuss the state of the art in the parts of the technology that are already consumer technology, and where the panellists see urgent need for further work. We will then discuss how we might propose a programme of work to deliver enhanced virtual conferencing in the future.
 
