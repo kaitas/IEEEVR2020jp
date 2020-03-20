@@ -24,20 +24,20 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 # Session 1
 
 |:--:|:--:|:--|:--:|
-|EDT<br>(GMT-4)|Speaker|Title|Duration|
+||Speaker|Title|Duration|
 |  | | Introduction, welcome, goals | 10min |
 |  | Cristina Lopes, University of California, Irvine | Keynote: Virtual Conferences | 40 mins |
 |  | Agenda Setting | |
 ||Parke Wilde | Multi-Site Conference Hosting Initiative (MULCH): Enhancing the Human Aspect of Low-Carbon Long-Distance Conferencing | 10 mins|
 ||Duc Anh Le, Blair MacIntyre, Jessica Outlaw | Enhancing the Experience of Virtual Conferences in Social Virtual Environments | 10 mins |
-|| Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | [Avatar Driven VR Society Trends in Japan](AvatarDrivenVRSocietyTrendsinJapan.md)</a> | 10 mins |
+|| Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | [Avatar Driven VR Society Trends in Japan](AvatarDrivenVRSocietyTrendsinJapan.md)| 10 mins |
 | | Discussion | |
 | | Break||
 
 # Session 2
 
 |:--:|:--:|:--|:--:|
-|EDT</br>(GMT-4)|Speaker|Title|Duration|
+||Speaker|Title|Duration|
 | | Technology and Requirements ||
 | | Charles Peasley, Rachel Dianiska, Emily Oldham, Nicholas Wilson, Stephen Gilbert, Peggy Wu, Brett Israelsen, James Oliver | Evaluating Metrics for Standardized Benchmarking of Remote Presence Systems | 5 min |
 | |Moya Kate Baldry | The revolution may not be televised…but can it be experienced in Virtual Reality? | 5 min |

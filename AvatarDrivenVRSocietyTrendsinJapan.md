@@ -26,3 +26,6 @@ GREE VR Studio Lab主催のVTuber技術コンテスト「VTech Challenge 2019」
 発表は日本時間AM3時ごろ開始し、Hubs内で10分程度の発表が行われる予定です。
 
 20200321追記：IEEEVR側のトラブルにより開始は現地時間日曜朝（日本時間夜23時）に延期される見込みです。詳しくは公式サイトと Twitter [#IEEEVR2020](https://twitter.com/hashtag/IEEEVR2020) をご参照ください。
+
+## Links
+- https://vr-lifemagazine.com/ieeevr2020/
