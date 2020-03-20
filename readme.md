@@ -23,7 +23,7 @@ IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセス�
 
 - [VRinVR](VRinVR.md) (3/21)開始は日本時間3/21土曜日AM2時に変更されました
 - [委員の清川先生にお聞きした情報](kiyokiyo.md)
-- "Avatar Driven VR Society Trends in Japan"(AvatarDrivenVRSocietyTrendsinJapan.md)
+- ["Avatar Driven VR Society Trends in Japan"](AvatarDrivenVRSocietyTrendsinJapan.md)
 
 ## 日本VR学会学会誌からの依頼
 日本VR学会 学会誌委員会 加藤史洋先生より
