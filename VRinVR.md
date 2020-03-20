@@ -14,7 +14,8 @@ All times in Eastern Time (ET) i.e. time in Atlanta. The ET timezone is currentl
 The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Please watch [this space](https://sites.google.com/view/vrinvr2020/program).
 
 
-<details><summary>日本語</summary>新しい日付と場所：2020年3月20日金曜日 東部標準時(GMT-4) 午後1時から5時 オンラインにて。
+<details><summary>日本語</summary>~~新しい日付と場所：2020年3月20日金曜日 東部標準時(GMT-4) 午後1時から5時~~~
+さらに変更 3月22日9～12:15(EST) 日本時間22時。オンラインにて。
 すべての時間は東部標準時間（ET）、つまりアトランタ時間です。 ETタイムゾーンはGMT-4です。米国は夏時間になっていますが、EUおよびその他の多くの国ではまだ夏時間/冬時間に切り替えていないことに注意してください。<br>
 会場は、Mozilla Hubs、Zoom、およびその他のツールの組み合わせになります。<a href="https://sites.google.com/view/vrinvr2020/program">このスペース</a>を見てください。
 </details>
