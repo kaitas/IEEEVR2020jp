@@ -26,6 +26,9 @@ IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセス�
 - ["Avatar Driven VR Society Trends in Japan"](AvatarDrivenVRSocietyTrendsinJapan.md)
 
 ## 日本VR学会学会誌からの依頼
+
+このような依頼をいただいておりますので、こちらのサイトにある情報は日本VR学会学会誌に寄稿するかもしれません。
+
 日本VR学会 学会誌委員会 加藤史洋先生より
 ```2020年6月末発行のVR学会誌にて、オンライン開催学会の参加報告について小特集の企画をすすめています。
 白井先生はVR in VRというワークショップに参加されるようなので、VR的に特に面白い取り組みがあるのでは？と
@@ -34,11 +37,11 @@ IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセス�
 もしあるようでしたら、学会参加報告の執筆をお願いしたいと思います。
 ```
 
-<detail>
-２．執筆の視点
+```
+執筆の視点
 通常の学会参加報告に加え、下記をご参考に記述いただければと思います。全部が必須という意図ではなく、こうした視点があるのではという予想です。
 
-■□■　学会パラメータ
+学会パラメータ
 規模：具体的な参加人数 or 小（３０人以下）、中（３０～１００人）、大（１００人～）、
 同時並列数：シングルセッション　～　Nパラレル
 発表形態：ポスター、デモ、口頭発表、基調講演
@@ -52,7 +55,7 @@ IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセス�
 分量：
 1000文字程度＋画像
 （ダブルカラムの半ページ程度、超えても～1ページ（2000字程度）までならOK）
-</detail>
+```
 
 ### About this Japanese version
 This website has been translated into Japanese for the convenience of Akihiko SHIARI. The work is non-profit, no warranty and as-is.
