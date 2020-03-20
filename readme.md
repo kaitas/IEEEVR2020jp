@@ -21,8 +21,9 @@ IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセス�
 [Workshop "VR in VR"](https://sites.google.com/view/vrinvr2020)は、当初は「研究者によるCO2排出削減のためにVRに何ができるか？」についてのIEEEVR2020内ワークショップでしたが、コロナウイルス対応によりIEEEVR2020全体がオンライン開催に移行したため、本体会議の実施と手法が、このワークショップのチェアと共有されている部分が多くあります。
 今後もオンライン開催となる学会は多くあると思いますので、ノウハウを残す意味でこちらのサイトに記載していきます。
 
-- [VRinVR](VRinVR.md)
+- [VRinVR](VRinVR.md) (3/21)開始は日本時間3/21土曜日AM2時に変更されました
 - [委員の清川先生にお聞きした情報](kiyokiyo.md)
+- "Avatar Driven VR Society Trends in Japan"(AvatarDrivenVRSocietyTrendsinJapan.md)
 
 
 ### About this Japanese version

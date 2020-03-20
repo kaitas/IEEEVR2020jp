@@ -6,8 +6,8 @@ title: VR in VR
 # (Workshop) "VR in VR" program
 [Original site](https://sites.google.com/view/vrinvr2020)
 
-NEW DATE AND LOCATION: 
-FRIDAY, 20 MARCH 2020, 1-5PM ET (GMT-4), ONLINE
+~~NEW DATE AND LOCATION: FRIDAY, 20 MARCH 2020, 1-5PM ET (GMT-4), ONLINE~~
+SUNDAY, 22 MARCH 2020, 9-12.15PM ET (GMT-4), ONLINE
 
 All times in Eastern Time (ET) i.e. time in Atlanta. The ET timezone is currently GMT-4. Note that the USA is on daylight savings time, but the EU and much of the rest of the world has not switched to summer/winter time yet.
 
@@ -19,6 +19,8 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 会場は、Mozilla Hubs、Zoom、およびその他のツールの組み合わせになります。<a href="https://sites.google.com/view/vrinvr2020/program">このスペース</a>を見てください。
 </details>
 
+![newTimeTableVRinVR.png](newTimeTableVRinVR.png)
+
 # 1:00pm - 2:30pm : Session 1
 
 |:--:|:--:|:--|:--:|
@@ -28,7 +30,7 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 | 1:50pm | Agenda Setting | |
 ||Parke Wilde | Multi-Site Conference Hosting Initiative (MULCH): Enhancing the Human Aspect of Low-Carbon Long-Distance Conferencing | 10 mins|
 ||Duc Anh Le, Blair MacIntyre, Jessica Outlaw | Enhancing the Experience of Virtual Conferences in Social Virtual Environments | 10 mins |
-|| Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | <a href="https://calendar.google.com/calendar/r/eventedit?text=%5BVRinVR+Session+1%5D+(Hubs)+1410-+Avatar+Driven+VR+Society+Trends+in+Japan&details=Avatar+Driven+VR+Society+Trends+in+Japan%0ALiudmila+Bredikhina,+Takayuki+Kameoka,+Shogo+Shimbo,+Akihiko+Shirai%0A%0AURL:+%3Ca+href%3D%27https://hub.link/U9naqtM%27%3E%27https://hub.link/U9naqtM%27%3C/a%3E%0A&dates=20200320T141000/20200320T142000&ctz=America/Detroit&sf=true">Avatar Driven VR Society Trends in Japan</a> | 10 mins |
+|| Liudmila Bredikhina, Takayuki Kameoka, Shogo Shimbo, Akihiko Shirai | [Avatar Driven VR Society Trends in Japan](AvatarDrivenVRSocietyTrendsinJapan.md)</a> | 10 mins |
 |2:20pm | Discussion | |
 |2:30-2:45pm| Break||
 
