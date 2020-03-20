@@ -20,6 +20,13 @@ The venue will be a combination of Mozilla Hubs, Zoom and some other tools. Plea
 会場は、Mozilla Hubs、Zoom、およびその他のツールの組み合わせになります。<a href="https://sites.google.com/view/vrinvr2020/program">このスペース</a>を見てください。
 </details>
 
+# Twitch 
+[VR-in-VR](http://twitch.tv/ieeevr2020_vr_in_vr)
+Sunday: 22 March 2020
+- 8:30 AM - 10:30 AM: Workshops Session 1
+- 11:00 AM - 12:30 PM: Workshops Session 2
+他の[Twitch中継](Twitch.md)
+
 ![newTimeTableVRinVR.png](newTimeTableVRinVR.png)
 
 # Session 1
