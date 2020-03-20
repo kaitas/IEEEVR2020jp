@@ -1,3 +1,31 @@
+# Study
+[Original](http://ieeevr.org/2020/online/study.html)
+## What is the study about? 何についての研究なの？
+
+<details><summary>IEEEVR2020は、この規模のVR環境で完全に開催される最初の会議です（現在、1,500人以上の参加者）！ 物理的な距離を保つ必要がありますが、社会的インタラクションは続けなければならないとき、仮想世界でのコミュニケーションと社会的インタラクションについてより多くを研究することに参加してください。 オンラインでのインタラクションを観察することにより、さまざまなプラットフォームとその機能がソーシャルインタラクションとコミュニケーションにどのように影響するかを学びたいと考えています。</summary>
+IEEEVR2020 is the first conference to take place entirely in a virtual environment at this scale (currently, 1,500+ participants)! Please help us learn more about communication and social interaction in virtual worlds at a time when physical distancing is necessary but social interactions must go on. By observing your interactions online, we hope to learn about how different platforms and their features can impact social interactions and communications.
+</details>
+
+
+## What does an (R) after a room name mean? (R)がついている部屋は何？
+<details><summary>
+(R)つきの部屋はHubsのRoomはリサーチゾーンであり、観察研究が行われています。 このリサーチゾーンに入ると、次のことに同意したことになります。<br>
+・あなたのインタラクションは、ビデオとオーディオで録音されます<br>
+・研究者はあなたの行動とコミュニケーションを観察しているかもしれません。<br>
+<br>あなたの参加は、私たちがVR空間でどのように交流するかについて学び、重要な発見をするのに役立ちます。 ただし参加は必須ではありません。 いつでも退出できますが、あなたが立ち去ってもIEEEVR2020会議への参加に影響はありません。
+</summary>
+This room is a Research Zone, where observation studies are being conducted. Upon entering this Research Zone, you agree that:
+- Your interactions may be video and audio taped
+- Researchers may be observing your actions and communication
+Your participation will help us learn and make important discoveries about how we interact in virtual spaces. However, your participation is not mandatory. You may leave at any time and your departure will have no impact on your participation in the IEEEVR2020 conference.
+</details>
+
+## I’m logging in to the conference from Europe. What will happen to my data?
+The recorded data will be used for research purposes only. De-identified data will be used for presentations and academic journals. Portions of the recorded video may be included in these presentations and journal articles as figures and illustrations. In the video, the information shown with your avatar may include personally identifiable information, such as your name and affiliation. If you do not want any personally identifiable information reflected in these videos to be shared with anyone outside of the researchersfor this study, you may contact us for up to one month following the end of the conference. After this point, we may already have made presentations and submitted manuscripts and may not be able to accept your request. We will also be asking for your personally identifiable information to contact you for follow up interviews after the conference.
+
+## If you do not wish to participate
+in this follow up interview, we will destroy your personally identifiable information. Once the interview and data analyses are complete, we will deidentify the data and destroy all personally identifiable information from the interview data. The PI of this research study is Sun Joo (Grace) Ahn, sjahn@uga.edu, 760-542-0976. If you have any concerns about this study, please contact 706-542-3199 or irb@uga.edu.Want to tell us more about your experiences at IEEEVR2020? We’d love to listen!We are interested in conducting structured interviews to get a really in-depthunderstanding of your experiences before, during, and after IEEEVR. The interview will take about 30 minutes and you may participate through Zoom, Skype, or Mozilla Hubs. Please contact the PI, Grace Ahn sjahn@uga.edu, if you are willing to help us better understand social interaction in VR. We’d love to hear from you!
+
 # Online Experience
 
 As part of our long term goal to increase the sustainability and accessibility of the conference, this year IEEE VR 2020 was planning to stream all presentations in the main program (talks, panels, and keynotes) to Twitch, and hosting a collection of online social virtual spaces for people who could not travel to Atlanta during the week of March 22-26th.
@@ -135,23 +163,3 @@ The workshops will have the freedom to use different technology if they desire. 
 
 <p>You may report inappropriate behavior in a variety of ways. We will have volunteers watching the Hubs server for inappropriate text messages and behavior, but may not always have moderators in every room.  We will watch for messages reporting that conduct, so you can type a public message and we should see it soon.  You may also log into the Slack server and send a message on the #code-of-conduct channel (someone will message you directly in response to a request in that channel), directly message one of the conference chairs (Blair MacIntyre, Ed Swan, Kyle Johnsen, or Kiyoshi Kiyokawa) on Slack, or email general2020@ieeevr.org.</p>
 
-# Study
-## What is the study about?
-
-<details><summary>IEEEVR2020は、この規模のVR環境で完全に開催される最初の会議です（現在、1,500人以上の参加者）！ 物理的な距離を保つ必要がありますが、社会的インタラクションは続けなければならないとき、仮想世界でのコミュニケーションと社会的インタラクションについてより多くを研究することに参加してください。 オンラインでのインタラクションを観察することにより、さまざまなプラットフォームとその機能がソーシャルインタラクションとコミュニケーションにどのように影響するかを学びたいと考えています。</summary>
-IEEEVR2020 is the first conference to take place entirely in a virtual environment at this scale (currently, 1,500+ participants)! Please help us learn more about communication and social interaction in virtual worlds at a time when physical distancing is necessary but social interactions must go on. By observing your interactions online, we hope to learn about how different platforms and their features can impact social interactions and communications.
-</details>
-
-
-## What does an (R) after a room name mean?
-This room is a Research Zone, where observation studies are being conducted. Upon entering this Research Zone, you agree that:
-
-Your interactions may be video and audio taped
-Researchers may be observing your actions and communication
-Your participation will help us learn and make important discoveries about how we interact in virtual spaces. However, your participation is not mandatory. You may leave at any time and your departure will have no impact on your participation in the IEEEVR2020 conference.
-
-## I’m logging in to the conference from Europe. What will happen to my data?
-The recorded data will be used for research purposes only. De-identified data will be used for presentations and academic journals. Portions of the recorded video may be included in these presentations and journal articles as figures and illustrations. In the video, the information shown with your avatar may include personally identifiable information, such as your name and affiliation. If you do not want any personally identifiable information reflected in these videos to be shared with anyone outside of the researchersfor this study, you may contact us for up to one month following the end of the conference. After this point, we may already have made presentations and submitted manuscripts and may not be able to accept your request. We will also be asking for your personally identifiable information to contact you for follow up interviews after the conference.
-
-## If you do not wish to participate
-in this follow up interview, we will destroy your personally identifiable information. Once the interview and data analyses are complete, we will deidentify the data and destroy all personally identifiable information from the interview data. The PI of this research study is Sun Joo (Grace) Ahn, sjahn@uga.edu, 760-542-0976. If you have any concerns about this study, please contact 706-542-3199 or irb@uga.edu.Want to tell us more about your experiences at IEEEVR2020? We’d love to listen!We are interested in conducting structured interviews to get a really in-depthunderstanding of your experiences before, during, and after IEEEVR. The interview will take about 30 minutes and you may participate through Zoom, Skype, or Mozilla Hubs. Please contact the PI, Grace Ahn sjahn@uga.edu, if you are willing to help us better understand social interaction in VR. We’d love to hear from you!
