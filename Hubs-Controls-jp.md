@@ -1,12 +1,14 @@
 # Hubsの操作
 
+[Original](https://github.com/mozilla/hubs/wiki/Hubs-Controls)
+
 <!-- 
 https://truben.no/table/ to edit these tables
 https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of contents
 -->
 
 - [タッチスクリーン操作](#タッチスクリーン操作)
-- [Keyboard and Mouse Controls](#keyboard-and-mouse-controls)
+- [キーボードとマウス](#キーボードとマウス)
 - [Oculus Touch Controls](#oculus-touch-controls)
 - [Vive Controls](#vive-controls)
 - [Windows Mixed Reality Controls](#windows-mixed-reality-controls)
@@ -20,7 +22,7 @@ https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of c
     <tr>
         <th>動作</th>
         <th>操作</th>
-        <th>Context</th>
+        <th>コンテキスト（連携操作）</th>
     </tr>
     <tr>
         <td>移動</td>
@@ -34,7 +36,7 @@ https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of c
     </tr>
     <tr>
         <td>動きながら回転</td>
-        <td>スクリーン上のジョイスティック🕹</td>
+        <td>スクリーン上のジョイスティック</td>
         <td></td>
     </tr>
     <tr>
@@ -54,80 +56,80 @@ https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of c
     </tr>
 </table>
 
-## Keyboard and Mouse Controls
+## キーボードとマウス
 <table>
     <tr>
-        <th>Actions</th>
-        <th>Controls</th>
-        <th>Context</th>
+        <th>動作</th>
+        <th>操作</th>
+        <th>コンテキスト（連携操作）</th>
     </tr>
     <tr>
-        <td>Move</td>
-        <td>Arrow or W, A, S, D keys</td>
+        <td>移動</td>
+        <td>矢印(↑←↓→)キー もしくは W A S D キー</td>
         <td></td>
     </tr>
     <tr>
-        <td>Turn</td>
-        <td>Q and E or left mouse button</td>
+        <td>回転</td>
+        <td>Q/Eキー もしくは 左マウスボタン</td>
         <td></td>
     </tr>
     <tr>
-        <td>Teleport</td>
-        <td>Right mouse button</td>
+        <td>テレポート</td>
+        <td>右マウスボタン</td>
         <td></td>
     </tr>
     <tr>
-        <td>Focus on Object</td>
-        <td>Right mouse button</td>
-        <td>While pointing at object</td>
+        <td>物体に注目する</td>
+        <td>右マウスボタン</td>
+        <td>物体をポインティングしているとき</td>
     </tr>
     <tr>
-        <td>Move faster</td>
+        <td>高速移動</td>
         <td>Shift</td>
         <td></td>
     </tr>
     <tr>
-        <td>Show object menus</td>
-        <td>Hold Space</td>
+        <td>物体操作メニュー</td>
+        <td>Spaceを押したまま</td>
         <td></td>
     </tr>
     <tr>
-        <td>Toggle object menus</td>
+        <td>物体メニューを開く</td>
         <td>Tab</td>
         <td></td>
     </tr>
     <tr>
-        <td>Toggle screen menus</td>
-        <td>Tilde key</td>
+        <td>スクリーンメニューを開く</td>
+        <td>チルダ(~)キー</td>
         <td></td>
     </tr>
     <tr>
-        <td>Toggle microphone mute</td>
+        <td>マイクのミュート</td>
         <td>M</td>
         <td></td>
     </tr>
     <tr>
-        <td>Focus chat</td>
+        <td>チャットにフォーカス</td>
         <td>T</td>
         <td></td>
     </tr>
     <tr>
-        <td>Rotate object</td>
-        <td>Move mouse</td>
-        <td>After pressing and holding the "rotate" button in the object's menu</td>
+        <td>物体を回転</td>
+        <td>マウスを動かす</td>
+        <td>オブジェクトのメニューの「回転」ボタンを押した後</td>
     </tr>
     <tr>
-        <td>Scale object</td>
-        <td>Shift + Mouse wheel</td>
-        <td>While holding an object</td>
+        <td>オブジェクトの拡大縮小</td>
+        <td>Shift + マウスホイール</td>
+        <td>オブジェクトを把持しているとき</td>
     </tr>
     <tr>
         <td>Move object closer/away</td>
         <td>Mouse wheel</td>
-        <td>While holding an object</td>
+        <td>オブジェクトを把持しているとき</td>
     </tr>
     <tr>
-        <td>Toggle Fly Mode</td>
+        <td>飛行モード</td>
         <td>G</td>
         <td></td>
     </tr>
