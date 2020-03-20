@@ -61,3 +61,5 @@ IEEEVR 2020会議の[メインページ](http://ieeevr.org/2020)にアクセス�
 This website has been translated into Japanese for the convenience of Akihiko SHIARI. The work is non-profit, no warranty and as-is.
 
 このWebサイトは<a href="https://kaitas.github.io/">Akihiko SHIARI</a>自身の利便性のために日本語に翻訳しています。作業は非営利であり、無保証であり、現状有姿です。
+
+I, Akihiko SHIRAI is respecting [IEEE VR 2020 Code of Conduct](http://ieeevr.org/2020/attend/codeofconduct.html), and its Open Conference Statement.

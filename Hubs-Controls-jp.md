@@ -2,6 +2,8 @@
 
 [Original](https://github.com/mozilla/hubs/wiki/Hubs-Controls)
 
+なかなか日本語で表現しづらいところもあるのでよい訳が思いついたら[お知らせ](https://twitter.com/o_ob)ください。
+
 <!-- 
 https://truben.no/table/ to edit these tables
 https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of contents
@@ -186,8 +188,7 @@ https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of c
 </table>
 
 ## Oculus Touch Controls
-
-You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above while using your Oculus Rift.
+Oculus Riftを使っているときは、上記の[キーボードとマウス](#キーボードとマウス)も使えます。
 
 <table>
     <tr>
@@ -279,7 +280,7 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
 
 ## Vive Controls
 
-You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above while using your Vive.
+Viveを使っているときは、上記の[キーボードとマウス](#キーボードとマウス)も使えます。
 
 <table>
     <tr>
@@ -381,7 +382,7 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
 
 ## Windows Mixed Reality Controls
 
-You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above while using your Windows Mixed Reality headset.
+Windows Mixed Reality ヘッドセットを使っているときは、上記の[キーボードとマウス](#キーボードとマウス)も使えます。
 
 <table>
     <tr>
