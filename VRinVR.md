@@ -73,11 +73,11 @@ Confirmed panellists:
 - Anthony Steed, University College London
 
 
-# 4:05 Discussion and Wrap Up
+# Discussion and Wrap Up
 
 
 
 ### From Hubs "Avatar Driven VR Society Trends in Japan" room, see you there!
-
+ [Avatar Driven VR Society Trends in Japan](AvatarDrivenVRSocietyTrendsinJapan.md)
 ![Avatar Driven VR Society Trends in Japan](https://pbs.twimg.com/media/ETZiFyNVAAEe7rj?format=jpg&name=large)
 
