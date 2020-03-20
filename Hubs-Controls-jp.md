@@ -1,9 +1,11 @@
+# Hubsの操作
+
 <!-- 
 https://truben.no/table/ to edit these tables
 https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of contents
 -->
 
-- [Touchscreen Controls](#touchscreen-controls)
+- [タッチスクリーン操作](#タッチスクリーン操作)
 - [Keyboard and Mouse Controls](#keyboard-and-mouse-controls)
 - [Oculus Touch Controls](#oculus-touch-controls)
 - [Vive Controls](#vive-controls)
@@ -13,41 +15,41 @@ https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of c
 - [Gamepad Controls](#gamepad-controls)
 
 
-## Touchscreen Controls
+## タッチスクリーン操作
 <table>
     <tr>
-        <th>Action</th>
-        <th>Controls</th>
+        <th>動作</th>
+        <th>操作</th>
         <th>Context</th>
     </tr>
     <tr>
-        <td>Move</td>
-        <td>Pinch</td>
+        <td>移動</td>
+        <td>ピンチ</td>
         <td></td>
     </tr>
     <tr>
-        <td>Rotate</td>
-        <td>Single-finger drag</td>
+        <td>向きを変える</td>
+        <td>一本指ドラッグ</td>
         <td></td>
     </tr>
     <tr>
-        <td>Move and Rotate</td>
-        <td>On-screen joysticks</td>
+        <td>動きながら回転</td>
+        <td>スクリーン上のジョイスティック🕹</td>
         <td></td>
     </tr>
     <tr>
-        <td>Spawn or drop pen</td>
-        <td>Tap on the pen button</td>
+        <td>ペンの生成と廃棄</td>
+        <td>ペンボタンをタップ</td>
         <td></td>
     </tr>
     <tr>
-        <td>Rotate object</td>
-        <td>Drag finger</td>
-        <td>After pressing and holding the "rotate" button in the object's menu</td>
+        <td>物体を回転</td>
+        <td>指をドラッグ</td>
+        <td>オブジェクトのメニューの「回転」ボタンを押した後</td>
     </tr>
     <tr>
-        <td>Toggle menus</td>
-        <td>Two-fingered tap</td>
+        <td>メニューを開く</td>
+        <td>2本指タップ</td>
         <td></td>
     </tr>
 </table>
