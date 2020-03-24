@@ -5,19 +5,18 @@ p {
     margin: 60px auto 40px;
   }
   table {
-    width:90%;
     border: 1px;
   }
   .tbl-r02 th {
     border: 1px;
-    background-color: rgba(87, 87, 87);
+    background-color: rgb(185, 185, 185);
     padding: 5px;
   }
   .tbl-r02 td {
     padding: 3px;
   }
    
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 1280px) {
     .last td:last-child {
       border-bottom: solid 1px #ccc;
       width: 100%;
