@@ -2,14 +2,21 @@
 layout: default
 title: geekbar style Twitch view
 ---
+<link href="style.css" rel="stylesheet"></link>
 
 # geekbar style Twitch view
 
-<iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_1" frameborder="1" allowfullscreen="true" scrolling="no" width="30%"></iframe>
+<div class="twitch_window">
+<iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_1" frameborder="0" allowfullscreen="true" scrolling="no" width="350"></iframe>
+</div>
 
-<iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_2" frameborder="1" allowfullscreen="true" scrolling="no" width="30%"></iframe>
+<div class="twitch_window">
+<iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_2" frameborder="0" allowfullscreen="true" scrolling="no" width="350"></iframe>
+</div>
 
-<iframe src="https://player.twitch.tv/?channel=ieeevr2020_studio_1" frameborder="1" allowfullscreen="true" scrolling="no" width="30%"></iframe>
+<div class="twitch_window">
+<iframe src="https://player.twitch.tv/?channel=ieeevr2020_studio_1" frameborder="0" allowfullscreen="true" scrolling="no" width="350"></iframe>
+</div>
 
 <div><iframe src="https://www.twitch.tv/embed/ieeevr2020_great_room_1/chat" frameborder="0" scrolling="no" height="500" width="350"></iframe><div>
 <div><iframe src="https://www.twitch.tv/embed/ieeevr2020_great_room_2/chat" frameborder="0" scrolling="no" height="500" width="350"></iframe><div>
