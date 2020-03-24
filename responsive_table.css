@@ -14,7 +14,7 @@ p {
     padding: 10px;
   }
   .tbl-r02 td {
-  　border: solid 1px #ccc;
+   border: solid 1px #ccc;
     padding: 10px;
   }
    
@@ -28,7 +28,7 @@ p {
     }
     .tbl-r02 th,
     .tbl-r02 td {
-  　　border-bottom: none;
+    border-bottom: none;
       display: block;
       width: 100%;
     }
