@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Twitch配信
+layout: twitch
+title: Twitch Geekbar
 ---
 
 # Twitch配信
