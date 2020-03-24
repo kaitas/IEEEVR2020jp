@@ -8,11 +8,11 @@ title: geekbar style Twitch view
 <iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_1" frameborder="0" allowfullscreen="true" scrolling="no" width="350"></iframe>
 </div>
 
-<div class="twitch_window">
+<div>
 <iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_2" frameborder="0" allowfullscreen="true" scrolling="no" width="350"></iframe>
 </div>
 
-<div class="twitch_window">
+<div>
 <iframe src="https://player.twitch.tv/?channel=ieeevr2020_studio_1" frameborder="0" allowfullscreen="true" scrolling="no" width="350"></iframe>
 </div>
 
