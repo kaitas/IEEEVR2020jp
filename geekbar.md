@@ -26,5 +26,25 @@ title: geekbar style Twitch view
     </tr>
   </tbody>
 </table>
+    <link rel="stylesheet" href="responsive_table.css">
 
-
+<table class="tbl-r02">
+  <tr>
+    <th>見出し01(th)</th>
+    <td>内容（コンテンツ）</td>
+    <td>内容（コンテンツ）</td>
+    <td>内容（コンテンツ）</td>
+  </tr>
+  <tr>
+    <th>見出し01(th)</th>
+    <td>内容（コンテンツ）</td>
+    <td>内容（コンテンツ）</td>
+    <td>内容（コンテンツ）</td>
+  </tr>
+  <tr class="last">
+    <th>見出し01(th)</th>
+    <td>内容（コンテンツ）</td>
+    <td>内容（コンテンツ）</td>
+    <td>内容（コンテンツ）</td>
+  </tr>
+</table>
