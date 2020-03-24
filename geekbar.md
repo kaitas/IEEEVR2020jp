@@ -15,14 +15,14 @@ title: geekbar style Twitch view
   </thead>
   <tbody>
     <tr>
-      <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_1" frameborder="0" allowfullscreen="true" scrolling="no" width="350" height="400" allow-same-origin></iframe></td>
-      <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_2" frameborder="0" allowfullscreen="true" scrolling="no" width="350" allow-same-origin></iframe></td>
-      <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_studio_1" frameborder="0" allowfullscreen="true" scrolling="no" width="350" allow-same-origin></iframe></td>
+      <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_1" frameborder="0" allowfullscreen="true" scrolling="no" width="200" allow-same-origin></iframe></td>
+      <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_2" frameborder="0" allowfullscreen="true" scrolling="no" width="200" allow-same-origin></iframe></td>
+      <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_studio_1" frameborder="0" allowfullscreen="true" scrolling="no" width="200" allow-same-origin></iframe></td>
     </tr>
     <tr class="last">
       <td><iframe src="https://www.twitch.tv/embed/ieeevr2020_great_room_1/chat" frameborder="0" scrolling="no" width="350"></iframe></td>
       <td><iframe src="https://www.twitch.tv/embed/ieeevr2020_great_room_2/chat" frameborder="0" scrolling="no" width="350"></iframe></td>
-      <td>内容（コンテンツ）下</td>
+      <td><iframe src="https://www.twitch.tv/embed/ieeevr2020_studio_1/chat" frameborder="0" scrolling="no" width="350" height="450"></td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,5 @@
 th {
-    background: #e9727e;
-    border: solid 1px #ccc;
-    color: #fff;
+    background: #c7fae5;
     padding: 10px;
   }
   td {
@@ -10,7 +8,7 @@ th {
   }
   @media screen and (max-width: 640px) {
     .tbl-r03 {
-      width: 90%;
+      width: 100%;
     }
     .tbl-r03 tr {
       display: block;
