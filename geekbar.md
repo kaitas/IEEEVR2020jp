@@ -15,7 +15,7 @@ title: geekbar style Twitch view
   </thead>
   <tbody>
     <tr>
-      <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_1" frameborder="0" allowfullscreen="true" scrolling="no" width="200" allow-same-origin></iframe></td>
+      <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_1" frameborder="0" allowfullscreen="true" scrolling="no" allow-same-origin></iframe></td>
       <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_great_room_2" frameborder="0" allowfullscreen="true" scrolling="no" width="200" allow-same-origin></iframe></td>
       <td><iframe src="https://player.twitch.tv/?channel=ieeevr2020_studio_1" frameborder="0" allowfullscreen="true" scrolling="no" width="200" allow-same-origin></iframe></td>
     </tr>
