@@ -5,6 +5,7 @@ p {
     margin: 60px auto 40px;
   }
   table {
+    width:100%;
     margin: 20px auto;
   }
   .tbl-r02 th {
