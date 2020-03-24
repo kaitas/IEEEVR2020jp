@@ -27,7 +27,7 @@ title: geekbar style Twitch view
   </tbody>
 </table>
 
-<table class="tbl-r02">
+<table class="tbl-r02" width=100%>
   <tr>
     <th>見出し01(th)</th>
     <td>内容（コンテンツ）</td>
