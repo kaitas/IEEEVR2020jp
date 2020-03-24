@@ -5,33 +5,7 @@ body {    background:#E4E3E4;} /* 1024px以上の幅の場合に適応される 
         background-color:#2262D1;
     }
 }
-@media screen and (max-width: 768px) {
-/* 768pxまでの幅の場合に適応される */
-     body {
-        background-color:#f10010;
-    }
-}
-@media screen and (max-width: 480px) {
-/* 480pxまでの幅の場合に適応される */
-    body {
-        background-color:#F9DF2C;
-    }
-}
-@media screen and (max-width: 320px) {
-/* 320pxまでの幅の場合に適応される */
-    body {
-        background-color: #68B876;
-    }
-}
-
-th {
-    background: #c7fae5;
-    padding: 5px;
-  }
-  td {
-    padding: 5px;
-  }
-  @media screen and (max-width: 640px) {
+ @media screen and (max-width: 640px) {
     .tbl-r03 {
       width: 100%;
     }
