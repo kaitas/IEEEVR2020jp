@@ -1,44 +1,36 @@
-body {    background:#E4E3E4;} /* 1024px以上の幅の場合に適応される */
-@media screen and (max-width: 1024px) {
-/* 1024pxまでの幅の場合に適応される */
-    body {
-        background-color:#2262D1;
-    }
-}
- @media screen and (max-width: 640px) {
-    .tbl-r03 {
-      width: 100%;
-    }
-    .tbl-r03 tr {
-      display: block;
-      float: left;
-    }
-    .tbl-r03 tr td, 
-    .tbl-r03 tr th {
-      border-left: none;
-      display: block;
-      height: 50px;
-    }
-    .tbl-r03 thead {
-      display: block;
-      float: left;
-      width: 30%;
-    }
-    .tbl-r03 thead tr {
-      width: 100%;
-    }
-    .tbl-r03 tbody {
-      display: block;
-      float: left;
-      width: 70%;
-    }
-    .tbl-r03 tbody tr {
-      width: 50%;
-    }
-    .tbl-r03 tr td + td {
-      border-left: none;
-    }
-    .tbl-r03 tbody td:last-child {
+p {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin: 60px auto 40px;
+  }
+  table {
+    margin: 20px auto;
+  }
+  .tbl-r02 th {
+    background: #e9727e;
+    border: solid 1px #ccc;
+    color: #fff;
+    padding: 10px;
+  }
+  .tbl-r02 td {
+  　border: solid 1px #ccc;
+    padding: 10px;
+  }
+   
+  @media screen and (max-width: 640px) {
+    .last td:last-child {
       border-bottom: solid 1px #ccc;
+      width: 100%;
+    }
+    .tbl-r02 {
+      width: 80%;
+    }
+    .tbl-r02 th,
+    .tbl-r02 td {
+  　　border-bottom: none;
+      display: block;
+      width: 100%;
     }
   }
+   
