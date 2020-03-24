@@ -5,18 +5,15 @@ p {
     margin: 60px auto 40px;
   }
   table {
-    width:100%;
-    margin: 20px auto;
+    width:90%;
+    margin: auto;
   }
   .tbl-r02 th {
-    background: #e9727e;
-    border: solid 1px #ccc;
     color: #fff;
-    padding: 10px;
+    padding: 5px;
   }
   .tbl-r02 td {
-   border: solid 1px #ccc;
-    padding: 10px;
+    padding: 3px;
   }
    
   @media screen and (max-width: 640px) {
@@ -25,7 +22,7 @@ p {
       width: 100%;
     }
     .tbl-r02 {
-      width: 80%;
+      width: 100%;
     }
     .tbl-r02 th,
     .tbl-r02 td {
