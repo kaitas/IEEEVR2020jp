@@ -2,8 +2,6 @@
 layout: default
 title: geekbar style Twitch view
 ---
-<link href="style.css" rel="stylesheet"></link>
-
 # geekbar style Twitch view
 
 <div class="twitch_window">
