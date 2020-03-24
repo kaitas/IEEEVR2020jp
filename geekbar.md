@@ -26,7 +26,6 @@ title: geekbar style Twitch view
     </tr>
   </tbody>
 </table>
-    <link rel="stylesheet" href="responsive_table.css">
 
 <table class="tbl-r02">
   <tr>
