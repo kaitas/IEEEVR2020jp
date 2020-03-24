@@ -9,8 +9,7 @@ title: geekbar style Twitch view
     <tr>
       <th><a href="https://www.twitch.tv/ieeevr2020_great_room_1?tt_content=text_link&tt_medium=live_embed">Room 1</a></th>
       <th><a href="https://www.twitch.tv/ieeevr2020_great_room_2?tt_content=text_link&tt_medium=live_embed">Room 2</a></th>
-      <th><a href="https://www.twitch.tv/ieeevr2020_studio_1?tt_content=text_link&tt_medium=live_embed">Studio 1</a>
-</th>
+      <th><a href="https://www.twitch.tv/ieeevr2020_studio_1?tt_content=text_link&tt_medium=live_embed">Studio 1</a></th>
     </tr>
   </thead>
   <tbody>
